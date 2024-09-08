@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/markdown/</link>
-      <atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/markdown/</link>
+      <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
     </image>
     
     <item>
-      <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/post/get-started/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
-      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
-
+      <title>Пост по неделе 11-17 марта</title>
+      <link>http://localhost:1313/post/summary1/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary1/</guid>
+      <description>
 
 
 &lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
@@ -26,131 +25,99 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#обзор&#34;&gt;Обзор&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 
-&lt;/li&gt;
-&lt;li&gt;📚 
-&lt;/li&gt;
-&lt;li&gt;💬 
- or 
-&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: 
- 
- #MadeWithHugoBlox&lt;/li&gt;
-&lt;li&gt;💡 
-&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the 
- and 
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;
-&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock 
- awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;
-:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;
- are building with this template.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code 
- and 
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
-, 
-, or 
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
-, 
-, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
-&lt;p&gt;
- for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present 
-.&lt;/p&gt;
-&lt;p&gt;Released under the 
- license.&lt;/p&gt;
+&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На этой неделе я спал 7 раз. Денег не хватило даже на корм Happy dog, поэтому я ел макароны. Охота на голубей оказалась сложнее, чем я ожидал. Если дела пойдут так дальше, то я буду вынужден бороться с голубями за хлеб.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что такое CI/CD?</title>
+      <link>http://localhost:1313/post/ci-cd/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ci-cd/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#cicd&#34;&gt;CI/CD&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;cicd&#34;&gt;CI/CD&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция (Continuous Integration, CI) и непрерывная поставка (Continuous Delivery, CD) представляют собой культуру, набор принципов и практик, которые позволяют разработчикам чаще и надежнее развертывать изменения программного обеспечения.&lt;/p&gt;
+&lt;p&gt;CI/CD — это одна из DevOps-практик. Она также относится и к agile-практикам: автоматизация развертывания позволяет разработчикам сосредоточиться на реализации бизнес-требований, на качестве кода и безопасности.&lt;/p&gt;
+&lt;p&gt;Определение CI/CD&lt;/p&gt;
+&lt;p&gt;Непрерывная интеграция — это методология разработки и набор практик, при которых в код вносятся небольшие изменения с частыми коммитами. И поскольку большинство современных приложений разрабатываются с использованием различных платформ и инструментов, то появляется необходимость в механизме интеграции и тестировании вносимых изменений.&lt;/p&gt;
+&lt;p&gt;С технической точки зрения, цель CI — обеспечить последовательный и автоматизированный способ сборки, упаковки и тестирования приложений. При налаженном процессе непрерывной интеграции разработчики с большей вероятностью будут делать частые коммиты, что, в свою очередь, будет способствовать улучшению коммуникации и повышению качества программного обеспечения.&lt;/p&gt;
+&lt;p&gt;Непрерывная поставка начинается там, где заканчивается непрерывная интеграция. Она автоматизирует развертывание приложений в различные окружения: большинство разработчиков работают как с продакшн-окружением, так и со средами разработки и тестирования.&lt;/p&gt;
+&lt;p&gt;Инструменты CI/CD помогают настраивать специфические параметры окружения, которые конфигурируются при развертывании. А также CI/CD-автоматизация выполняет необходимые запросы к веб-серверам, базам данных и другим сервисам, которые могут нуждаться в перезапуске или выполнении каких-то дополнительных действий при развертывании приложения.&lt;/p&gt;
+&lt;p&gt;Непрерывная интеграция и непрерывная поставка нуждаются в непрерывном тестировании, поскольку конечная цель — разработка качественных приложений. Непрерывное тестирование часто реализуется в виде набора различных автоматизированных тестов (регрессионных, производительности и других), которые выполняются в CI/CD-конвейере.&lt;/p&gt;
+&lt;p&gt;Зрелая практика CI/CD позволяет реализовать непрерывное развертывание: при успешном прохождении кода через CI/CD-конвейер, сборки автоматически развертываются в продакшн-окружении. Команды, практикующие непрерывную поставку, могут позволить себе ежедневное или даже ежечасное развертывание. Хотя здесь стоит отметить, что непрерывная поставка подходит не для всех бизнес-приложений.&lt;/p&gt;
+&lt;p&gt;Непрерывная интеграция улучшает коммуникации и качество&lt;/p&gt;
+&lt;p&gt;Непрерывная интеграция — это методология разработки, основанная на регламентированных процессах и автоматизации. При внедренной непрерывной интеграции разработчики часто коммитят свой код в репозиторий исходного кода. И большинство команд придерживается правила коммитить как минимум один раз в день. При небольших изменениях проще выявлять дефекты и различные проблемы, чем при больших изменениях, над которыми работали в течение длительного периода времени. Кроме того, работа с короткими циклами коммитов уменьшает вероятность изменения одной и той же части кода несколькими разработчиками, что может привести к конфликтам при слиянии.&lt;/p&gt;
+&lt;p&gt;Команды, внедряющие непрерывную интеграцию, часто начинают с настройки системы контроля версий и определения порядка работы. Несмотря на то что коммиты делаются часто, реализация фич и исправление багов могут выполняться довольно долго. Для контроля того, какие фичи и код готовы существует несколько подходов.&lt;/p&gt;
+&lt;p&gt;Многие используют фича-флаги (feature flag) — механизм для включения и выключения функционала в рантайме. Функционал, который еще находится в стадии разработки, оборачивается фича-флагами и развертывается из master-ветки в продакшн, но отключается до тех пор, пока не будет полностью готов к использованию. По данным недавнего исследования 63 процента команд, использующих фича-флаги, говорят об улучшении тестируемости и повышении качества программного обеспечения. Для работы с фича-флагами есть специальные инструменты, такие как CloudBees Rollout, Optimizely Rollouts и LaunchDarkly, которые интегрируются в CI/CD и позволяют выполнять конфигурацию на уровне фич.&lt;/p&gt;
+&lt;p&gt;Другой способ работы с фичами — использование веток в системе контроля версий. В этом случае надо определить модель ветвления (например, такую как Gitflow) и описать как код попадает в ветки разработки, тестирования и продакшена. Для фич с длительным циклом разработки создаются отдельные фича-ветки. После завершения работы над фичей разработчики сливают изменения из фича-ветки в основную ветку разработки. Такой подход работает хорошо, но может быть неудобен, если одновременно разрабатывается много фич.&lt;/p&gt;
+&lt;p&gt;Этап сборки заключается в автоматизации упаковки необходимого программного обеспечения, базы данных и других компонент. Например, если вы разрабатываете Java-приложение, то CI упакует все статические файлы, такие как HTML, CSS и JavaScript, вместе с Java-приложением и скриптами базы данных.&lt;/p&gt;
+&lt;p&gt;CI не только упакует все компоненты программного обеспечения и базы данных, но также автоматически выполнит модульные тесты и другие виды тестирования. Такое тестирование позволяет разработчикам получить обратную связь о том, что сделанные изменения ничего не сломали.&lt;/p&gt;
+&lt;p&gt;Большинство CI/CD-инструментов позволяет запускать сборку вручную, по коммиту или по расписанию. Командам необходимо обсудить расписание сборки, которое подходит для них в зависимости от численности команды, ожидаемого количества ежедневных коммитов и других критериев. Важно, чтобы коммиты и сборка были быстрыми, иначе долгая сборка может стать препятствием для разработчиков, пытающихся быстро и часто коммитить.&lt;/p&gt;
+&lt;p&gt;CD-конвейер автоматизирует поставку изменений в различные окружения&lt;/p&gt;
+&lt;p&gt;Непрерывная поставка — это автоматическое развертывание приложения в целевое окружение. Обычно разработчики работают с одним или несколькими окружениями разработки и тестирования, в которых приложение развертывается для тестирования и ревью. Для этого используются такие CI/CD-инструменты как Jenkins, CircleCI, AWS CodeBuild, Azure DevOps, Atlassian Bamboo, Travis CI.&lt;/p&gt;
+&lt;p&gt;Типичный CD-конвейер состоит из этапов сборки, тестирования и развертывания. Более сложные конвейеры включают в себя следующие этапы:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Получение кода из системы контроля версий и выполнение сборки.
+Настройка инфраструктуры, автоматизированной через подход “инфраструктура как код”.
+Копирование кода в целевую среду.
+Настройка переменных окружения для целевой среды.
+Развертывание компонентов приложения (веб-серверы, API-сервисы, базы данных).
+Выполнение дополнительных действий, таких как перезапуск сервисов или вызов сервисов, необходимых для работоспособности новых изменений.
+Выполнение тестов и откат изменений окружения в случае провала тестов.
+Логирование и отправка оповещений о состоянии поставки.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Например, в Jenkins конвейер определяется в файле Jenkinsfile, в котором описываются различные этапы, такие как сборка (build), тестирование (test) и развертывание (deploy). Там же описываются переменные окружения, секретные ключи, сертификаты и другие параметры, которые можно использовать в этапах конвейера. В разделе post настраивается обработка ошибок и уведомления.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://example.com/project/pandas/</link>
+      <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
+      <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://example.com/project/pytorch/</link>
+      <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
+      <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://example.com/project/scikit/</link>
+      <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
+      <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/post/second-brain/</link>
+      <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-brain/</guid>
+      <guid>http://localhost:1313/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -261,9 +228,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/post/data-visualization/</link>
+      <link>http://localhost:1313/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/data-visualization/</guid>
+      <guid>http://localhost:1313/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -275,7 +242,7 @@
 
 
 
-&lt;div id=&#34;chart-523718496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-436928175&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -293,7 +260,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-523718496&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-436928175&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -473,9 +440,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/post/teach-courses/</link>
+      <link>http://localhost:1313/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/teach-courses/</guid>
+      <guid>http://localhost:1313/post/teach-courses/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -530,7 +497,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -589,9 +556,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/post/project-management/</link>
+      <link>http://localhost:1313/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/project-management/</guid>
+      <guid>http://localhost:1313/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
