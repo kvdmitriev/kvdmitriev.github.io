@@ -17,10 +17,10 @@
       <link>http://localhost:1313/project/github/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/github/</guid>
-      <description>&lt;h2 id=&#34;вводная&#34;&gt;Вводная&lt;/h2&gt;
-&lt;p&gt;GitHub — это облачная платформа для хостинга IT-проектов и совместной разработки, под капотом которой находится популярная система контроля версий Git, а также полноценная социальная сеть для разработчиков.&lt;/p&gt;
-&lt;h2 id=&#34;мои-проекты&#34;&gt;Мои проекты&lt;/h2&gt;
-&lt;p&gt;На данный момент многие из моих проектов находятся на стадии планировки либо стадии ранней разработки, в будущем они будут публиковаться на моем аккаунте Github. На данный момент на нем находятся все лабораторные работы, подтверждающие мое обучение и обеспечивающие основу для будущих разработок.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;GitHub is a cloud platform for hosting IT projects and collaborative development, under the hood of which is the popular Git version control system, as well as a full-fledged social network for developers.&lt;/p&gt;
+&lt;h2 id=&#34;my-projects&#34;&gt;My projects&lt;/h2&gt;
+&lt;p&gt;At the moment, many of my projects are at the planning stage or early development stage, in the future they will be published on my Github account. At the moment, all labs are located there, confirming my training and providing a basis for future development.&lt;/p&gt;
 </description>
     </item>
     
